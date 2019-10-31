@@ -3091,6 +3091,7 @@ h6 {
     height: 0;
     overflow: hidden;
     padding-bottom: 56.25%;
+    margin-bottom: 80px;
     position: relative; }
 .gmap iframe {
     position: absolute;
