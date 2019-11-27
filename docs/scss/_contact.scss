@@ -98,12 +98,12 @@
 			box-shadow: none;
 			padding: 0px 15px;
 			font-size: 13px;
-			font-family: $rob;
+			font-family: $nserifs;
 			font-weight: 300;
 			color: #999999;
 			@include placeholder{
 				font-size: 13px;
-				font-family: $rob;
+				font-family: $nserifs;
 				font-weight: 300;
 				color: #999999;
 			}
@@ -117,7 +117,7 @@
 			line-height: 36px;
 			.current{
 				font-size: 13px;
-				font-family: $rob;
+				font-family: $nserifs;
 				font-weight: 300;
 				color: #999999;
 			}
@@ -163,7 +163,7 @@
         h6{
             font-size: 16px;
             line-height: 24px;
-            color: $rob;
+            color: $nserifs;
             font-weight: bold;
             margin-bottom: 0px;
 			color: $dip;
@@ -186,7 +186,7 @@
             line-height: 26px;
             color: #999;
             border: 1px solid #eeeeee;
-            font-family: $rob;
+            font-family: $nserifs;
             border-radius: 0px;
             padding-left: 20px;
             &:focus{
@@ -243,7 +243,7 @@
                     text-align: center;
                     color: $baseColor;
                     padding-bottom: 10px;
-					font-family: $rob;
+					font-family: $nserifs;
                 }
                 p{
                     display: block;

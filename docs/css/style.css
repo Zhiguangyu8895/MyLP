@@ -41,7 +41,7 @@ Table of Content:
 /*font Variables*/
 /*Color Variables*/
 /*=================== fonts ====================*/
-@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Roboto:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Roboto:300,400,500,700|Ma+Shan+Zheng|Noto+Sans+SC|Noto+Serif+SC");
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .list {
@@ -62,12 +62,12 @@ a {
 body {
   line-height: 26px;
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: normal;
   color: #777777; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Heebo", sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   font-weight: bold; }
 
 button:focus {
@@ -108,7 +108,7 @@ button:focus {
   text-align: center;
   margin-bottom: 75px; }
   .main_title h2 {
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     font-size: 36px;
     color: #222222;
     font-weight: bold;
@@ -116,7 +116,7 @@ button:focus {
     text-transform: uppercase; }
   .main_title p {
     font-size: 16px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     line-height: 26px;
     color: #777777;
     margin-bottom: 0px;
@@ -147,7 +147,7 @@ button:focus {
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
       .header_area .navbar .nav .nav-item .nav-link {
-        font: 500 12px/100px "Roboto", sans-serif;
+        font: 500 12px/100px "Noto Serif SC", serif;
         text-transform: uppercase;
         color: #222222;
         padding: 0px;
@@ -266,7 +266,7 @@ button:focus {
     line-height: 40px;
     display: inline-block;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     text-transform: uppercase;
     font-size: 12px;
     margin-right: 50px;
@@ -278,7 +278,7 @@ button:focus {
   .top_menu .float-right .pur_btn {
     background: #8490ff;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     line-height: 40px;
     display: block;
     padding: 0px 40px;
@@ -305,7 +305,7 @@ button:focus {
       color: #222222; }
       .home_banner_area .banner_inner .banner_content h5 {
         font-size: 14px;
-        font-family: "Roboto", sans-serif;
+        font-family: "Noto Serif SC", serif;
         text-transform: uppercase;
         letter-spacing: 2.1px;
         margin-bottom: 20px; }
@@ -313,13 +313,13 @@ button:focus {
         margin-top: 0px;
         font-size: 48px;
         font-weight: bold;
-        font-family: "Heebo", sans-serif;
+        font-family: "Noto Sans SC", sans-serif;
         line-height: 54px;
         text-transform: uppercase;
         margin-bottom: 20px; }
       .home_banner_area .banner_inner .banner_content p {
         color: #777777;
-        font-family: "Roboto", sans-serif;
+        font-family: "Noto Serif SC", serif;
         max-width: 680px;
         font-size: 14px;
         line-height: 26px;
@@ -357,7 +357,7 @@ button:focus {
       .blog_banner .banner_inner .blog_b_text h2 {
         font-size: 60px;
         font-weight: 500;
-        font-family: "Roboto", sans-serif;
+        font-family: "Noto Serif SC", serif;
         line-height: 66px;
         margin-bottom: 15px; }
       .blog_banner .banner_inner .blog_b_text p {
@@ -387,14 +387,14 @@ button:focus {
       .banner_area .banner_inner .banner_content h2 {
         color: #222222;
         font-size: 36px;
-        font-family: "Heebo", sans-serif;
+        font-family: "Noto Sans SC", sans-serif;
         margin-bottom: 0px;
         text-transform: uppercase;
         font-weight: bold; }
       .banner_area .banner_inner .banner_content .page_link a {
         font-size: 14px;
         color: #777777;
-        font-family: "Roboto", sans-serif;
+        font-family: "Noto Serif SC", serif;
         margin-right: 32px;
         position: relative; }
         .banner_area .banner_inner .banner_content .page_link a:before {
@@ -422,13 +422,13 @@ button:focus {
   .l_blog_item .l_blog_text .date a {
     color: #777777;
     font-size: 12px;
-    font-family: "Roboto", sans-serif; }
+    font-family: "Noto Serif SC", serif; }
 .l_blog_item .l_blog_text h4 {
   font-size: 21px;
   color: #222222;
   margin-bottom: 20px;
   transition: all 300ms linear 0s;
-  font-family: "Heebo", sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   max-width: 300px; }
@@ -437,7 +437,7 @@ button:focus {
 .l_blog_item .l_blog_text p {
   margin-bottom: 0px;
   font-size: 14px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "Noto Serif SC", serif; }
 
 /* End Latest Blog Area css
 ============================================================================================ */
@@ -487,7 +487,7 @@ button:focus {
     padding: 30px 35px 40px 30px; }
     .causes_item .causes_text h4 {
       color: #222222;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-size: 18px;
       font-weight: 600;
       margin-bottom: 15px;
@@ -508,7 +508,7 @@ button:focus {
     line-height: 50px;
     background: #8490ff;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-size: 14px;
     font-weight: 500; }
     .causes_item .causes_bottom a + a {
@@ -607,14 +607,14 @@ button:focus {
   .blog_info .post_tag {
     padding-bottom: 20px; }
     .blog_info .post_tag a {
-      font: 300 14px/21px "Roboto", sans-serif;
+      font: 300 14px/21px "Noto Serif SC", serif;
       color: #222222; }
       .blog_info .post_tag a:hover {
         color: #777777; }
       .blog_info .post_tag a.active {
         color: #8490ff; }
   .blog_info .blog_meta li a {
-    font: 300 14px/20px "Roboto", sans-serif;
+    font: 300 14px/20px "Noto Serif SC", serif;
     color: #777777;
     vertical-align: middle;
     padding-bottom: 12px;
@@ -1131,27 +1131,27 @@ button:focus {
   box-shadow: none;
   padding: 0px 15px;
   font-size: 13px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: 300;
   color: #999999; }
   .reservation_form .form-group input.placeholder {
     font-size: 13px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-weight: 300;
     color: #999999; }
   .reservation_form .form-group input:-moz-placeholder {
     font-size: 13px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-weight: 300;
     color: #999999; }
   .reservation_form .form-group input::-moz-placeholder {
     font-size: 13px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-weight: 300;
     color: #999999; }
   .reservation_form .form-group input::-webkit-input-placeholder {
     font-size: 13px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-weight: 300;
     color: #999999; }
 .reservation_form .form-group .res_select {
@@ -1163,7 +1163,7 @@ button:focus {
   line-height: 36px; }
   .reservation_form .form-group .res_select .current {
     font-size: 13px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-weight: 300;
     color: #999999; }
   .reservation_form .form-group .res_select:after {
@@ -1199,7 +1199,7 @@ button:focus {
   .contact_info .info_item h6 {
     font-size: 16px;
     line-height: 24px;
-    color: "Roboto", sans-serif;
+    color: "Noto Serif SC", serif;
     font-weight: bold;
     margin-bottom: 0px;
     color: #222222; }
@@ -1217,7 +1217,7 @@ button:focus {
     line-height: 26px;
     color: #999;
     border: 1px solid #eeeeee;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     border-radius: 0px;
     padding-left: 20px; }
     .contact_form .form-group .form-control:focus {
@@ -1268,7 +1268,7 @@ button:focus {
       text-align: center;
       color: #8490ff;
       padding-bottom: 10px;
-      font-family: "Roboto", sans-serif; }
+      font-family: "Noto Serif SC", serif; }
     .modal-message .modal-dialog .modal-content .modal-header p {
       display: block; }
 
@@ -2477,7 +2477,7 @@ h6 {
   background-size: 200% auto;
   padding: 0px 35px;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-size: 13px;
   font-weight: 500;
   line-height: 50px;
@@ -2496,7 +2496,7 @@ h6 {
   background: #8490ff;
   padding: 0px 32px;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-size: 13px;
   font-weight: 500;
   line-height: 38px;
@@ -2518,7 +2518,7 @@ h6 {
   background-size: 200% auto;
   padding: 0px 50px;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-size: 13px;
   font-weight: 500;
   line-height: 50px;
@@ -2537,7 +2537,7 @@ h6 {
   background: #f9f9ff;
   padding: 0px 50px;
   color: #222222;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-size: 12px;
   font-weight: 500;
   line-height: 50px;
@@ -2560,7 +2560,7 @@ h6 {
   display: inline-block;
   border-radius: 5px;
   font-size: 13px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: 500;
   transition: all 300ms linear 0s; }
   .banner_btn:hover {
@@ -2574,7 +2574,7 @@ h6 {
   line-height: 40px;
   padding: 0px 28px;
   font-size: 14px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: 500;
   text-transform: uppercase;
   transition: all 300ms linear 0s;
@@ -2589,7 +2589,7 @@ h6 {
   padding: 0px 32px;
   font-size: 13px;
   font-weight: 500;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   color: #222222;
   line-height: 34px;
   display: inline-block; }
@@ -2606,7 +2606,7 @@ h6 {
   background-size: 200% auto;
   padding: 0px 28px;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-size: 13px;
   font-weight: 500;
   line-height: 40px;
@@ -2664,13 +2664,13 @@ h6 {
     .team_item .team_name h4 {
       margin-bottom: 5px;
       color: #222222;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: 500;
       font-size: 20px;
       transition: all 300ms linear 0s; }
     .team_item .team_name p {
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       color: #777777;
       margin-bottom: 0px; }
   .team_item:hover .team_img:before {
@@ -2701,14 +2701,14 @@ h6 {
   margin-top: 45px; }
   .welcome_text h4 {
     color: #222222;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     font-size: 36px;
     margin-bottom: 18px;
     text-transform: uppercase; }
   .welcome_text p {
     max-width: 495px;
     line-height: 24px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     font-size: 14px;
     margin-bottom: 40px; }
 
@@ -2723,14 +2723,14 @@ h6 {
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
     font-size: 24px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     font-weight: bold;
     color: #222222;
     margin-bottom: 5px;
     margin-top: 10px; }
   .wel_item p {
     font-size: 14px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     color: #777777;
     margin-bottom: 0px; }
 
@@ -2748,7 +2748,7 @@ h6 {
     .tools_expert .skill_main .skill_item h4 {
       text-align: right;
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: normal;
       color: #777777;
       margin-bottom: 15px; }
@@ -2804,7 +2804,7 @@ h6 {
   .feature_item h4 {
     color: #222222;
     font-size: 21px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase; }
@@ -2836,7 +2836,7 @@ h6 {
     margin-right: 30px; }
     .projects_fillter .filter li a {
       font-size: 13px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       color: #777777; }
     .projects_fillter .filter li:last-child {
       margin-right: 0px; }
@@ -2869,7 +2869,7 @@ h6 {
     padding-right: 30px; }
     .projects_item .projects_text h4 {
       font-size: 21px;
-      font-family: "Heebo", sans-serif;
+      font-family: "Noto Sans SC", sans-serif;
       font-weight: bold;
       color: #222222;
       margin-bottom: 5px;
@@ -2954,7 +2954,7 @@ h6 {
 .test_title h2 {
   color: #222222;
   font-size: 36px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   font-weight: bold;
   margin-bottom: 12px; }
 .test_title p {
@@ -2989,14 +2989,14 @@ h6 {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    font-family: "Heebo", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     margin-bottom: 0px;
     text-transform: uppercase; }
 
 .ab_widget p {
   font-size: 14px;
   line-height: 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   color: #777777;
   margin-bottom: 30px; }
   .ab_widget p a {
@@ -3009,7 +3009,7 @@ h6 {
   .news_widget p {
     font-size: 14px;
     line-height: 24px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     color: #777777;
     margin-bottom: 15px; }
   .news_widget .input-group input {
@@ -3020,28 +3020,28 @@ h6 {
     border: none;
     padding: 0px 15px;
     font-size: 14px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Noto Serif SC", serif;
     color: #cccccc;
     outline: none;
     box-shadow: none; }
     .news_widget .input-group input.placeholder {
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: normal;
       color: #cccccc; }
     .news_widget .input-group input:-moz-placeholder {
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: normal;
       color: #cccccc; }
     .news_widget .input-group input::-moz-placeholder {
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: normal;
       color: #cccccc; }
     .news_widget .input-group input::-webkit-input-placeholder {
       font-size: 14px;
-      font-family: "Roboto", sans-serif;
+      font-family: "Noto Serif SC", serif;
       font-weight: normal;
       color: #cccccc; }
   .news_widget .input-group .sub-btn {
@@ -3059,7 +3059,7 @@ h6 {
 .social_widget p {
   font-size: 14px;
   line-height: 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Serif SC", serif;
   color: #777777;
   margin-bottom: 10px; }
 .social_widget .list li {
@@ -3081,26 +3081,6 @@ h6 {
     color: #8490ff; }
 
 /* End Footer Area css
-============================================================================================ */
-/*---------------------------------------------------- */
-
-/*----------------------------------------------------*/
-/* Google Map iframe css
-============================================================================================ */
-.gmap {
-    height: 0;
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    margin-bottom: 80px;
-    position: relative; }
-.gmap iframe {
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%; }
-
-/* End Google Map iframe css
 ============================================================================================ */
 /*---------------------------------------------------- */
 

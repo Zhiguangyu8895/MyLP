@@ -1,7 +1,9 @@
 /*font Variables*/
-$rob: 'Roboto', sans-serif;
-$hee: 'Heebo', sans-serif;  
-
+$nserifs: 'Roboto', sans-serif;
+$nss: 'Heebo', sans-serif;
+$msz: 'Ma Shan Zheng', cursive;
+$nss: 'Noto Sans SC', sans-serif;
+$nserifs: 'Noto Serif SC', serif;
 
 /*Color Variables*/
 $baseColor: #8490ff; 
@@ -10,7 +12,7 @@ $pfont: #777777;
 
 
 /*=================== fonts ====================*/
-@import url('https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Roboto:300,400,500,700|Ma+Shan+Zheng|Noto+Sans+SC|Noto+Serif+SC');
 
 // Mixins
 @mixin transition($property: all, $duration: 300ms, $animate: linear, $delay:0s){
