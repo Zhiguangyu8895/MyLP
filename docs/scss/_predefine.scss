@@ -19,12 +19,12 @@ a{
 body{
     line-height: 26px;
     font-size: 16px;
-    font-family: $rob;
+    font-family: $nserifs;
     font-weight: normal;
     color: $pfont;
 }
 h1, h2, h3, h4, h5, h6{ 
-    font-family: $hee; 
+    font-family: $nss; 
     font-weight: bold;
 }
 
@@ -73,7 +73,7 @@ button:focus{
 	text-align: center;
 	margin-bottom: 75px;
 	h2{
-		font-family: $hee;
+		font-family: $nss;
 		font-size: 36px;
 		color: $dip;
 		font-weight: bold;
@@ -82,7 +82,7 @@ button:focus{
 	}
 	p{
 		font-size: 16px;
-		font-family: $rob;
+		font-family: $nserifs;
 		line-height: 26px;
 		color: $pfont;
 		margin-bottom: 0px;

@@ -18,7 +18,7 @@
 			a{
 				color: $pfont;
 				font-size: 12px;
-				font-family: $rob;
+				font-family: $nserifs;
 			}
 		}
 		h4{
@@ -26,7 +26,7 @@
 			color: $dip;
 			margin-bottom: 20px;
 			@include transition;
-			font-family: $hee;
+			font-family: $nss;
 			font-weight: bold;
 			text-transform: uppercase;
 			max-width: 300px;
@@ -37,7 +37,7 @@
 		p{
 			margin-bottom: 0px;
 			font-size: 14px;
-			font-family: $rob;
+			font-family: $nserifs;
 		}
 	}
 }
@@ -103,7 +103,7 @@
 		padding: 30px 35px 40px 30px;
 		h4{
 			color: $dip;
-			font-family: $rob;
+			font-family: $nserifs;
 			font-size: 18px;
 			font-weight: 600;
 			margin-bottom: 15px;
@@ -129,7 +129,7 @@
 			line-height: 50px;
 			background: $baseColor;
 			color: #fff;
-			font-family: $rob;
+			font-family: $nserifs;
 			font-size: 14px;
 			font-weight: 500;
 			& + a{
@@ -276,7 +276,7 @@
     .post_tag{
         padding-bottom: 20px;
         a{
-            font: 300 14px/21px $rob;
+            font: 300 14px/21px $nserifs;
             color: $dip;
             &:hover{
                 color: $pfont;
@@ -289,7 +289,7 @@
     .blog_meta{
         li{
             a{
-                font: 300 14px/20px $rob;
+                font: 300 14px/20px $nserifs;
                 color: #777777;
                 vertical-align: middle;
                 padding-bottom: 12px;
