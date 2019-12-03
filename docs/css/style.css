@@ -2875,7 +2875,8 @@ h6 {
       margin-bottom: 5px;
       transition: all 300ms linear 0s;
       text-transform: uppercase;
-      cursor: pointer; }
+      cursor: pointer;
+      text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000, 2px 2px 2px white; }
     .projects_item .projects_text p {
       margin-bottom: 0px;
       font-size: 14px; }
