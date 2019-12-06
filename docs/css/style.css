@@ -438,7 +438,8 @@ button:focus {
 .l_blog_item .l_blog_text p {
   margin-bottom: 0px;
   font-size: 14px;
-  font-family: "Noto Serif SC", serif; }
+  font-family: "Noto Serif SC", serif;
+  color: #777777; }
 
 /* End Latest Blog Area css
 ============================================================================================ */
