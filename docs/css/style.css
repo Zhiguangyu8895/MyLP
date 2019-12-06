@@ -416,8 +416,9 @@ button:focus {
 /*----------------------------------------------------*/
 /* Latest Blog Area css
 ============================================================================================ */
+.l_blog_item .l_blog_img {
+  margin-bottom: 15px; }
 .l_blog_item .l_blog_text .date {
-  margin-top: 24px;
   margin-bottom: 15px; }
   .l_blog_item .l_blog_text .date a {
     color: #777777;
@@ -2879,7 +2880,8 @@ h6 {
       text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000, 2px 2px 2px white; }
     .projects_item .projects_text p {
       margin-bottom: 0px;
-      font-size: 14px; }
+      font-size: 14px;
+      color: #777777; }
   .projects_item:hover:before {
     opacity: 1; }
   .projects_item:hover .projects_text h4 {
